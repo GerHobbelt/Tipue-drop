@@ -21,6 +21,6 @@
      "docs": "http://www.tipue.com/drop/",
      "download": "http://www.tipue.com/drop/",
      "dependencies": {
-          "jquery": ">=1.11.1"
+          "jquery": ">=2.1.3"
      }
 }
