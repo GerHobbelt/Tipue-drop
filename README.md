@@ -13,7 +13,7 @@ There's full documentation at <http://www.tipue.com/drop/>.
 Copyright and license
 ---------------------
 
-Tipue drop Copyright (c) 2014 Tipue, under the The MIT License.
+Tipue drop Copyright (c) 2015 Tipue, under the The MIT License.
 
 
 
