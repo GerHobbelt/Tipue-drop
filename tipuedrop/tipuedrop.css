@@ -1,6 +1,6 @@
 
 /*
-Tipue drop 5.0
+Tipue drop 5.0.1
 Copyright (c) 2015 Tipue
 Tipue drop is released under the MIT License
 http://www.tipue.com/drop
@@ -9,9 +9,9 @@ http://www.tipue.com/drop
 
 #tipue_drop_input
 {
-     font: 13px/1.6 'open sans', sans-serif;
+     font: 13px/1.6 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #333;
-	padding: 12px 12px 12px 40px;
+	padding: 13px 13px 13px 40px;
 	width: 170px;
 	border: 1px solid #e2e2e2;
 	border-radius: 0;
@@ -54,14 +54,14 @@ http://www.tipue.com/drop
 {
 	border-bottom-color: #fff;
 	border-width: 8px;
-	left: 40px;
+	left: 42px;
 	margin-left: -8px;
 }
 .tipue_drop_box:before 
 {
 	border-bottom-color: #dcdcdc;
 	border-width: 9px;
-	left: 40px;
+	left: 42px;
 	margin-left: -9px;
 }
 
@@ -92,15 +92,15 @@ http://www.tipue.com/drop
 {
      width: 50px;
      height: 50px;
-     border: 3px solid #fff;
-     border-radius: 28px;
+     border-radius: 27px;
+     border: 2px solid #fff;
 }
 .tipue_drop_right
 {
      display: table-cell;
      vertical-align: middle;
+     font: 300 14px/1.6 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #333;     
      width: 170px;
      padding: 0 7px;
-     font: 13px/1.6 'open sans', sans-serif;
-	color: #333;
 }
