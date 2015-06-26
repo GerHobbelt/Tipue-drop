@@ -1,6 +1,6 @@
 
 /*
-Tipue drop 5.0.1
+Tipue drop 5.0.2
 Copyright (c) 2015 Tipue
 Tipue drop is released under the MIT License
 http://www.tipue.com/drop

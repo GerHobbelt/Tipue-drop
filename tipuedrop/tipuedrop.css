@@ -1,6 +1,6 @@
 
 /*
-Tipue drop 5.0.1
+Tipue drop 5.0.2
 Copyright (c) 2015 Tipue
 Tipue drop is released under the MIT License
 http://www.tipue.com/drop
@@ -67,7 +67,6 @@ http://www.tipue.com/drop
 
 #tipue_drop_wrapper
 {
-     display: table;
      margin: 6px;
 }
 #tipue_drop_wrapper a
@@ -76,7 +75,6 @@ http://www.tipue.com/drop
 }
 .tipue_drop_item
 {
-     display: table-row;
      background-color: #fff;
 }
 .tipue_drop_item:hover
